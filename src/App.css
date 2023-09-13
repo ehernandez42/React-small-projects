@@ -1,0 +1,38 @@
+* {
+    font-family: Arial;
+}
+
+.headerBar {
+    Color: darkslategrey;
+    text-align: center;
+}
+.center-piece-lookup {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: beige;
+    padding: 60px;
+    border-radius: 10px;
+    margin: 150px 60px;
+    font-size: larger;
+}
+
+.address-input-field {
+    width: 50%;
+    height: 20px;
+    font-size: 20px;
+    align-self: center;
+    margin: 10px;
+}
+.address-input-button {
+    width: 20%;
+    height: 30px;
+    align-self: center;
+    margin-top: 5px;
+    border-style: none;
+    border-radius: 8px;
+    background: goldenrod;
+    font-size: 18px;
+    color: beige;
+}
