@@ -1,6 +1,6 @@
 import './App.css';
 import Carousel from "./components/Carousel.jsx";
-import Faq from "./components/faq.jsx";
+import Faq from "./components/Faq.jsx";
 
 const App = () => {
     return (

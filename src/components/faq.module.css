@@ -1,0 +1,17 @@
+.questions {
+    background: darkslategrey;
+    color: beige;
+}
+
+section div,
+section p {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+    margin-top: 0px;
+}
+
+h2, h1 {
+    text-align: center;
+}
