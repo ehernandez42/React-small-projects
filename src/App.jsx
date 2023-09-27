@@ -1,11 +1,9 @@
 import './App.css';
-import Header from "./components/Header.jsx";
-
-
+import Carousel from "./components/Carousel.jsx";
 
 const App = () => {
     return (
-        <Header />
+        <Carousel />
     )
 }
 

@@ -1,0 +1,19 @@
+img {
+    max-width: 50%;
+}
+
+.slider {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    max-width: 50%;
+}
+
+.title{
+    text-align: center;
+}

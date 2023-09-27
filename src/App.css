@@ -36,3 +36,7 @@
     font-size: 18px;
     color: beige;
 }
+
+.picture {
+    max-width: 100%;
+}
